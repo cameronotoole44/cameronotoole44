@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on: 😴
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
-- 🇮🇪 Irish speaker
+- :ireland: Irish speaker
