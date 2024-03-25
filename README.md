@@ -6,7 +6,7 @@
 - 📝Student
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: JavaScript & TypeScript
-- 🤔 I'm always open to learn new tips and tricks, or just new things overall
+- 🤔 I'm always open to learning new tips and tricks, or just new things overall
 - 🔭 I’m currently working on: 😴
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
