@@ -7,10 +7,10 @@
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: C#, Ruby, and TypeScript
 - 🤔 I'm always open to learning new tips and tricks, or just new things overall
-- 🔭 I’m currently working on: React
+- 🔭 I’m currently working on: 😐
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland: Irish speaker
 
-[![My Stack](https://skillicons.dev/icons?i=babel,bash,blender,bootstrap,cs,css,express,git,github,gitlab,html,js,jquery,md,mongodb,nodejs,npm,postman,react,tailwind,ts,unity,vercel,vscode&perline=4)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=babel,bash,blender,bootstrap,cs,css,express,git,github,gitlab,html,js,jquery,md,materialui,mongodb,nodejs,npm,postman,react,ruby,tailwind,ts,unity,vercel,vscode&perline=4)](https://skillicons.dev)
 
