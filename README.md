@@ -12,5 +12,5 @@
 - ⚡ Mythology buff
 - :ireland: Irish speaker
 
-[![My Stack ](https://skillicons.dev/icons?i=babel, bash, blender, bootstrap, cs, css, express, git, github, gitlab, html, js, jquery, md, mongodb, nodejs, npm, postman, react, tailwind, ts, unity, vercel, vscode&perline=4)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=babel,bash,blender,bootstrap,cs,css,express,git,github,gitlab,html,js,jquery,md,mongodb,nodejs,npm,postman,react,tailwind,ts,unity,vercel,vscode&perline=4)](https://skillicons.dev)
 
