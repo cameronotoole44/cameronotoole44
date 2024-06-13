@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: C#, Ruby, and TypeScript
 - 🤔 I'm always open to learning new tips and tricks, or just new things overall
-- 🔭 I’m currently working on: 😐
+- 🔭 I’m currently working on: a survival colony builder game
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland: Irish speaker
