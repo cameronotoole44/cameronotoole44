@@ -5,9 +5,9 @@
 
 - 📝Student
 - 😄 Pronouns: He/Him 
-- 🌱 I’m currently learning: C#, Ruby, and TypeScript
+- 🌱 I’m currently learning: C#, and Ruby
 - 🤔 I'm always open to learning new tips and tricks, or just new things overall
-- 🔭 I’m currently working on: a survival colony builder game
+- 🔭 I’m currently working on: a survival colony game
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland: Irish speaker
