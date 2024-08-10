@@ -1,5 +1,5 @@
 ![banner with 'cameron o'toole' written on it](./CAMERON%20O’TOOLE.jpg)
-
+---
 
 ### Hi my name is Cameron 👋
 
@@ -11,7 +11,7 @@
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland: Irish speaker
----
+
 ## 💻 Tech Stack
 
 ### Main Technologies
