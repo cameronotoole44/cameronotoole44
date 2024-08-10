@@ -11,6 +11,11 @@
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland: Irish speaker
+---
+## 💻 Tech Stack
 
-[![My Stack](https://skillicons.dev/icons?i=babel,blender,bootstrap,cs,css,dotnet,express,git,github,gitlab,html,js,jest,jquery,md,materialui,mongodb,nodejs,notion,npm,postgres,postman,py,react,redux,ruby,sqlite,sequelize,tailwind,ts,unity,vercel,vscode&perline=4)](https://skillicons.dev)
+### Main Technologies
+[![Main Stack](https://skillicons.dev/icons?i=js,cs,py,react,redux,html,css,nodejs,express,mongodb,postgres,git,github&perline=7)](https://skillicons.dev)
 
+### Additional Skills
+[![Additional Skills](https://skillicons.dev/icons?i=ts,ruby,dotnet,bootstrap,tailwind,jquery,jest,materialui,sequelize,sqlite,vscode,postman,babel,vercel,npm,md,blender,unity,notion,gitlab&perline=7)](https://skillicons.dev)
