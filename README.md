@@ -14,8 +14,11 @@
 
 ## 💻 Tech Stack
 
-### Main Technologies
-[![Main Stack](https://skillicons.dev/icons?i=js,cs,py,react,redux,html,css,nodejs,express,mongodb,postgres,git,github&perline=7)](https://skillicons.dev)
+### Core Technologies
+[![Core Technologies](https://skillicons.dev/icons?i=js,cs,py,react,redux,html,css,nodejs,express,mongodb,postgres&perline=6)](https://skillicons.dev)
 
-### Additional Skills
-[![Additional Skills](https://skillicons.dev/icons?i=ts,ruby,dotnet,bootstrap,tailwind,jquery,jest,materialui,sequelize,sqlite,vscode,postman,babel,vercel,npm,md,blender,unity,notion,gitlab&perline=7)](https://skillicons.dev)
+### Tools & Libraries
+[![Tools & Libraries](https://skillicons.dev/icons?i=ts,ruby,bootstrap,tailwind,jquery,jest,materialui,sequelize,sqlite,babel,vercel,npm&perline=6)](https://skillicons.dev)
+
+### IDEs & Other Skills
+[![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,md,notion,blender,unity,gitlab&perline=7)](https://skillicons.dev)
