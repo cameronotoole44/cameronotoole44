@@ -15,10 +15,10 @@
 ## 💻 Tech Stack
 
 ### Core Technologies
-[![Core Technologies](https://skillicons.dev/icons?i=js,cs,py,flask,express,react,redux,mongodb,postgres,sequelize&perline=6)](https://skillicons.dev)
+[![Core Technologies](https://skillicons.dev/icons?i=js,py,cs,ts,,flask,express,react,redux,mongodb,postgres,sequelize&perline=6)](https://skillicons.dev)
 
 ### Tools & Libraries
-[![Tools & Libraries](https://skillicons.dev/icons?i=ts,ruby,html,css,bootstrap,tailwind,jquery,jest,materialui,sqlite,babel,vercel,npm,nodejs&perline=6)](https://skillicons.dev)
+[![Tools & Libraries](https://skillicons.dev/icons?i=ruby,git,html,CSS,sass,bootstrap,tailwind,jquery,jest,materialui,sqlite,babel,vercel,npm,nodejs&perline=6)](https://skillicons.dev)
 
 ### IDEs & Other Skills
-[![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,md,notion,blender,unity,gitlab&perline=6)](https://skillicons.dev)
+[![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,md,figma,notion,blender,unity,gitlab&perline=6)](https://skillicons.dev)
