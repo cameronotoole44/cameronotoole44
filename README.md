@@ -1,4 +1,4 @@
-![banner with 'cameron o'toole' written on it](./CAMERON%20O’TOOLE.jpg)
+![banner](./CAMERON%20O’TOOLEv2.png)
 ---
 
 ### Hi my name is Cameron 👋
