@@ -21,4 +21,4 @@
 [![Tools & Libraries](https://skillicons.dev/icons?i=ruby,git,html,css,sass,bootstrap,tailwind,jquery,jest,materialui,sqlite,babel,vercel,npm,nodejs&perline=6)](https://skillicons.dev)
 
 ### IDEs & Other Skills
-[![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,md,figma,notion,blender,unity,gitlab&perline=6)](https://skillicons.dev)
+[![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,obsidian,blender,unity,md,figma,notion,gitlab&perline=6)](https://skillicons.dev)
