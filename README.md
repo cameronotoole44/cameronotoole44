@@ -6,11 +6,11 @@
 - 📝Student
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: C# with Unity and TypeScript
-- 🤔 I'm always open to learning new tips and tricks, or just new things overall
-- 🔭 I’m currently working on: a Delivery Driver game 🚘📦
+- 🤔 I'm always open to learning new things
+- 🔭 I’m currently working on: a population genetics simulator 🧬📊🌍
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
-- :ireland: Irish speaker
+- :ireland
 
 ## 💻 Tech Stack
 
