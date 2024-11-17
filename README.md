@@ -5,9 +5,9 @@
 
 - 📝Student
 - 😄 Pronouns: He/Him 
-- 🌱 I’m currently learning: C# with Unity and TypeScript
+- 🌱 I’m currently learning: Unreal Engine
 - 🤔 I'm always open to learning new things
-- 🔭 I’m currently working on: a population genetics simulator 🧬📊🌍
+- 🔭 I’m currently working on: a population simulator 🧬📊🌍
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland
