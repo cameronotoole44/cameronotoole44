@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: Unreal Engine
 - 🤔 I'm always open to learning new things
-- 🔭 I’m currently working on: a population simulator 🧬📊🌍
+- 🔭 I’m currently working on: my portfolio!
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland
@@ -15,10 +15,10 @@
 ## 💻 Tech Stack
 
 ### Core Technologies
-[![Core Technologies](https://skillicons.dev/icons?i=js,py,cs,ts,flask,express,react,redux,mongodb,postgres,sequelize&perline=6)](https://skillicons.dev)
+[![Core Technologies](https://skillicons.dev/icons?i=js,ts,py,cs,flask,express,react,redux,mongodb,postgres,sequelize&perline=6)](https://skillicons.dev)
 
 ### Tools & Libraries
-[![Tools & Libraries](https://skillicons.dev/icons?i=ruby,git,html,css,sass,bootstrap,tailwind,jquery,jest,materialui,sqlite,babel,vite,vercel,npm,nodejs&perline=6)](https://skillicons.dev)
+[![Tools & Libraries](https://skillicons.dev/icons?i=git,html,css,tailwind,sqlite,vite,vercel,npm,nodejs&perline=6)](https://skillicons.dev)
 
 ### IDEs & Other Skills
-[![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,aws,obsidian,blender,unity,md,figma,notion,gitlab&perline=6)](https://skillicons.dev)
+[![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,aws,blender,unity,unreal,md,figma,notion,gitlab&perline=6)](https://skillicons.dev)
