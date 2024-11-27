@@ -1,9 +1,8 @@
 ![banner](./CAMERON%20O'TOOLE%20v2.png)
 ---
 
-### Hi my name is Cameron 👋
+### Hi my name is Cameron
 
-- 📝Student
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: Unreal Engine
 - 🤔 I'm always open to learning new things
