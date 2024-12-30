@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: Unreal Engine
 - 🤔 I'm always open to learning new things
-- 🔭 I’m currently working on: my portfolio!
+- 🔭 I’m currently working on: sleep
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland
