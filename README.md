@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: Unreal Engine
 - 🤔 I'm always open to learning new things
-- 🔭 I’m currently working on: SP-U0, Chapper, and a visualization tool for data structures and algorithms.
+- 🔭 I’m currently working on: SP-U0
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland
