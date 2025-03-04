@@ -14,7 +14,7 @@
 ## 💻 Tech Stack
 
 ### Core Technologies
-[![Core Technologies](https://skillicons.dev/icons?i=js,ts,py,cs,flask,express,react,redux,mongodb,mysql,postgres,sequelize&perline=6)](https://skillicons.dev)
+[![Core Technologies](https://skillicons.dev/icons?i=js,ts,py,flask,express,react,redux,mongodb,mysql,postgres,sequelize&perline=6)](https://skillicons.dev)
 
 ### Tools & Libraries
 [![Tools & Libraries](https://skillicons.dev/icons?i=git,html,css,tailwind,sqlite,vite,vercel,npm,nodejs&perline=6)](https://skillicons.dev)
