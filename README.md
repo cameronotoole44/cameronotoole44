@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him 
 - 🌱 I’m currently learning: Go
 - 🤔 I'm always open to learning new things
-- 🔭 I’m currently working on: SP-U0
+- 🔭 I’m currently working on: neovim config files
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland
