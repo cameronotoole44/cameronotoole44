@@ -4,7 +4,7 @@
 ### Hi my name is Cameron
 
 - 😄 Pronouns: He/Him 
-- 🌱 I’m currently learning: Go
+- 🌱 I’m currently learning: C++
 - 🤔 I'm always open to learning new things
 - 🔭 I’m currently working on: neovim config files
 - ⌨️ Mechanical Keyboard collector
