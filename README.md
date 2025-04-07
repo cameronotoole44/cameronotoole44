@@ -16,25 +16,21 @@
 ## 🚀 Tech Stack
 
 ### 🧠 **Core Proficiencies**  
-These are the technologies I use the most:  
 [![Core](https://skillicons.dev/icons?i=js,ts,py,react,flask,express,mongodb,mysql,postgres,c&perline=6)](https://skillicons.dev)
 
 ---
 
-### 🛠️ **Tools & Ecosystem**  
-Stuff I reach for often:  
+### 🛠️ **Tools & Ecosystem**   
 [![Tools](https://skillicons.dev/icons?i=git,nodejs,npm,vite,vercel,tailwind,sqlite,html,css&perline=6)](https://skillicons.dev)
 
 ---
 
-### 🧪 **Currently Exploring**  
-Leveling up with:  
+### 🧪 **Leveling up with**   
 [![Exploring](https://skillicons.dev/icons?i=lua,neovim,blender,unity,unreal,docker,aws&perline=6)](https://skillicons.dev)
 
 ---
 
 ### 🧰 **Dev Tools & Platforms**  
-The productivity helpers:  
 [![IDEs](https://skillicons.dev/icons?i=vscode,postman,obsidian,notion,gitlab,windows,linux,apple,md&perline=6)](https://skillicons.dev)
 
 ---
