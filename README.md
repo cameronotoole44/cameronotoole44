@@ -4,20 +4,44 @@
 ### Hi my name is Cameron
 
 - 😄 Pronouns: He/Him 
-- 🌱 I’m currently learning: C++
-- 🤔 I'm always open to learning new things
-- 🔭 I’m currently working on: neovim config files
+- 🌱 Currently learning: C, C++, Assembly
+- 🔧 Tinkering with: Neovim configs
 - ⌨️ Mechanical Keyboard collector
 - ⚡ Mythology buff
 - :ireland
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
-### Core Technologies
-[![Core Technologies](https://skillicons.dev/icons?i=js,ts,py,flask,express,react,redux,mongodb,mysql,postgres,sequelize&perline=6)](https://skillicons.dev)
+### 🧠 **Core Proficiencies**
+These are the technologies I use the most:  
+[![Core](https://skillicons.dev/icons?i=js,ts,py,react,flask,express,mongodb,mysql,postgres,c&perline=6)](https://skillicons.dev)
 
-### Tools & Libraries
-[![Tools & Libraries](https://skillicons.dev/icons?i=git,html,css,tailwind,sqlite,vite,vercel,npm,nodejs&perline=6)](https://skillicons.dev)
+---
 
-### IDEs & Other Skills
-[![IDEs & Other Skills](https://skillicons.dev/icons?i=vscode,postman,aws,blender,unity,unreal,md,figma,notion,gitlab,windows,linux,apple&perline=6)](https://skillicons.dev)
+### 🛠️ **Tools & Ecosystem**
+Stuff I reach for often:  
+[![Tools](https://skillicons.dev/icons?i=git,nodejs,npm,vite,vercel,tailwind,sqlite,html,css&perline=6)](https://skillicons.dev)
+
+---
+
+### 🧪 **Currently Exploring**
+Leveling Up with: 
+[![Exploring](https://skillicons.dev/icons?i=lua,neovim,blender,unity,unreal,docker,aws&perline=6)](https://skillicons.dev)
+
+---
+
+### 🧰 **Dev Tools & Platforms**
+The productivity helpers:  
+[![IDEs](https://skillicons.dev/icons?i=vscode,postman,obsidian,notion,gitlab,windows,linux,apple,md&perline=6)](https://skillicons.dev)
+
+---
+
+## 📌 Some Facts
+
+- 🧠 I like breaking down problems and reverse-engineering systems
+- 🔍 Passionate about debugging, clean code, and quality assurance
+- ⚙️ Love automation, scripting, and smoothing out dev workflows
+- 🛡️ Learning ethical hacking, digital forensics, and secure coding
+- 🎮 Building weird little tools, games, and productivity extensions
+- 🔧 Currently configuring Neovim (yes, again... probably will happen again)
+
