@@ -6,14 +6,14 @@
 
 - 😄 Pronouns: He/Him  
 - 🌱 Currently learning: C, C++, Assembly  
-- 🔧 Tinkering with: Neovim configs  
+- 🔧 Tinkering with: Doodle Draw 
 - ⌨️ Mechanical Keyboard collector  
 - ⚡ Mythology buff  
 - 🇮🇪 Irish
 
 ---
 
-## 🚀 Tech Stack
+## 🚀Tech Stack
 
 ### 🧠 **Core Proficiencies**  
 [![Core](https://skillicons.dev/icons?i=js,ts,py,react,flask,express,mongodb,mysql,postgres,c&perline=6)](https://skillicons.dev)
@@ -37,10 +37,9 @@
 
 ## 📌 Some Facts
 
-- 🧠 I like breaking down problems and reverse-engineering systems  
-- 🔍 Passionate about debugging, clean code, and quality assurance  
-- ⚙️ Love automation, scripting, and smoothing out dev workflows  
-- 🛡️ Learning ethical hacking, digital forensics, and secure coding  
-- 🎮 Building weird little tools, games, and productivity extensions  
-- 🔧 Currently configuring Neovim (yes, again... probably will happen again)
+- I like breaking down problems and reverse-engineering systems  
+- Passionate about debugging, clean code, and quality assurance  
+- Love automation, scripting, and smoothing out dev workflows  
+- Learning ethical hacking, digital forensics, and secure coding  
+- Building weird little tools, games, and productivity extensions 
 
