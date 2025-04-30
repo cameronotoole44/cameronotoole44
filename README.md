@@ -31,7 +31,7 @@
 ---
 
 ### 🧰 **Dev Tools & Platforms**  
-[![IDEs](https://skillicons.dev/icons?i=vscode,postman,obsidian,notion,gitlab,windows,linux,apple,md&perline=6)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,postman,obsidian,notion,raspberrypi,gitlab,windows,linux,apple,md&perline=6)](https://skillicons.dev)
 
 ---
 
