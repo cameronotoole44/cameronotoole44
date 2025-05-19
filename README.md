@@ -2,44 +2,46 @@
 
 ---
 
-### Hi, my name is Cameron
+### Hi, I'm Cameron
 
-- 😄 Pronouns: He/Him  
-- 🌱 Currently learning: C, C++, Assembly  
-- 🔧 Tinkering with: Doodle Draw 
-- ⌨️ Mechanical Keyboard collector  
-- ⚡ Mythology buff  
-- 🇮🇪 Irish
+- 🔭 Working on C, C++ & Assembly  
+- 🕹️ Prototyping in Unreal Engine  
+- ⌨️ Mechanical keyboard collector  
+- ⚡ Mythology enthusiast  
+- 🍀 Irish
+
+---
+
+## 🚀 What I’m Building
+
+- **Game UI Analyzer** — performs automated heuristic and accessibility checks, generating a detailed report card on interface quality  
+- **PiCar-X** — Python-powered Raspberry Pi rover with AI-driven self-driving and remote-control capabilities  
+- **Emergency Resource Finder** — offline-first service locator for critical resources when connectivity fails  
+
 
 ---
 
 ## 🚀Tech Stack
 
-### 🧠 **Core Proficiencies**  
-[![Core](https://skillicons.dev/icons?i=js,ts,py,react,flask,express,mongodb,mysql,postgres,c&perline=6)](https://skillicons.dev)
+[![Core](https://skillicons.dev/icons?i=js,ts,py,c,git,postgresql&perline=6)](https://skillicons.dev)
+</details>
+
+<details>
+<summary>🛠 Tools & Ecosystem</summary>
+
+[![Tools](https://skillicons.dev/icons?i=express,flask,react,vite,npm,docker&perline=6)](https://skillicons.dev)
+</details>
+
+<details>
+<summary>🧪 Leveling Up With</summary>
+
+[![Exploring](https://skillicons.dev/icons?i=unreal,raspberrypi,blender,neovim,linux&perline=6)](https://skillicons.dev)
+</details>
+
+<details>
+<summary>🧰 Dev Tools & Platforms</summary>
+
+[![IDEs](https://skillicons.dev/icons?i=postman,vscode,obsidian,windows,apple&perline=6)](https://skillicons.dev)
+</details>
 
 ---
-
-### 🛠️ **Tools & Ecosystem**   
-[![Tools](https://skillicons.dev/icons?i=git,nodejs,npm,vite,vercel,tailwind,sqlite,html,css&perline=6)](https://skillicons.dev)
-
----
-
-### 🧪 **Leveling up with**   
-[![Exploring](https://skillicons.dev/icons?i=lua,neovim,blender,unity,unreal,docker,aws&perline=6)](https://skillicons.dev)
-
----
-
-### 🧰 **Dev Tools & Platforms**  
-[![IDEs](https://skillicons.dev/icons?i=vscode,postman,obsidian,notion,raspberrypi,gitlab,windows,linux,apple,md&perline=6)](https://skillicons.dev)
-
----
-
-## 📌 Some Facts
-
-- I like breaking down problems and reverse-engineering systems  
-- Passionate about debugging, clean code, and quality assurance  
-- Love automation, scripting, and smoothing out dev workflows  
-- Learning ethical hacking, digital forensics, and secure coding  
-- Building weird little tools, games, and productivity extensions 
-
