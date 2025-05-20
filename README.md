@@ -14,9 +14,9 @@
 
 ## 🚀 What I’m Building
 
-- **Game UI Analyzer** — performs automated heuristic and accessibility checks, generating a detailed report card on interface quality  
-- **PiCar-X** — Python-powered Raspberry Pi rover with AI-driven self-driving and remote-control capabilities  
-- **Emergency Resource Finder** — offline-first service locator for critical resources when connectivity fails  
+- **Game UI Analyzer** performs automated heuristic and accessibility checks, generating a detailed report card on interface quality  
+- **PiCar-X** Python-powered Raspberry Pi rover with AI-driven self-driving and remote-control capabilities  
+- **Emergency Resource Finder** offline-first service locator for critical resources when connectivity fails  
 
 
 ---
