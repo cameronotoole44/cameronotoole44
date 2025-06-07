@@ -8,11 +8,11 @@
 - 🕹️ Prototyping in Unreal Engine  
 - ⌨️ Mechanical keyboard collector  
 - ⚡ Mythology enthusiast  
-- 🍀 Irish
+- 🍀 Ireland 
 
 ---
 
-## 🚀 What I’m Building
+## Building
 
 - **Game UI Analyzer** performs automated heuristic and accessibility checks, generating a detailed report card on interface quality  
 - **PiCar-X** Python-powered Raspberry Pi rover with AI-driven self-driving and remote-control capabilities  
@@ -21,25 +21,25 @@
 
 ---
 
-## 🚀Tech Stack
+## Stack
 
 [![Core](https://skillicons.dev/icons?i=js,ts,py,c,git,postgresql&perline=6)](https://skillicons.dev)
 </details>
 
 <details>
-<summary>🛠 Tools & Ecosystem</summary>
+<summary>Tools & Ecosystem</summary>
 
 [![Tools](https://skillicons.dev/icons?i=express,flask,react,vite,npm,docker&perline=6)](https://skillicons.dev)
 </details>
 
 <details>
-<summary>🧪 Leveling Up With</summary>
+<summary>Leveling With</summary>
 
 [![Exploring](https://skillicons.dev/icons?i=unreal,raspberrypi,blender,neovim,linux&perline=6)](https://skillicons.dev)
 </details>
 
 <details>
-<summary>🧰 Dev Tools & Platforms</summary>
+<summary>Dev Tools & Platforms</summary>
 
 [![IDEs](https://skillicons.dev/icons?i=postman,vscode,obsidian,windows,apple&perline=6)](https://skillicons.dev)
 </details>
