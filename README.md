@@ -4,11 +4,11 @@
 
 ### Hi, I'm Cameron
 
-- 🔭 Working on C, C++ & Assembly  
-- 🕹️ Prototyping in Unreal Engine  
-- ⌨️ Mechanical keyboard collector  
-- ⚡ Mythology enthusiast  
-- 🍀 Ireland 
+- Working on C, C++ & Assembly  
+- Prototyping in Unreal Engine  
+- Mechanical keyboard collector  
+- Mythology enthusiast  
+- Ireland 
 
 ---
 
