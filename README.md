@@ -14,7 +14,7 @@
 
 ## Building
 
-- **Game UI Analyzer** performs automated heuristic and accessibility checks, generating a detailed report card on interface quality  
+- **Lilvikbot** Chatbot that learns from live chat using Markov chains
 - **PiCar-X** Python-powered Raspberry Pi rover with AI-driven self-driving and remote-control capabilities  
 - **Emergency Resource Finder** offline-first service locator for critical resources when connectivity fails  
 
