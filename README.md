@@ -15,7 +15,6 @@
 ## Building
 
 - **Lilvikbot** Chatbot that learns from live chat using Markov chains
-- **PiCar-X** Python-powered Raspberry Pi rover with AI-driven self-driving and remote-control capabilities  
 - **Emergency Resource Finder** offline-first service locator for critical resources when connectivity fails  
 
 
