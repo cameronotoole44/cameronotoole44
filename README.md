@@ -5,9 +5,9 @@
 ### Hi, I'm Cameron
 
 - Working on C, C++ & Assembly  
-- Prototyping in Unreal Engine  
+- Prototyping a gate detection monitor  
 - Mechanical keyboard collector  
-- Mythology enthusiast  
+- Mythology enthusiast
 - Ireland 
 
 ---
