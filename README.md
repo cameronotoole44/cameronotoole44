@@ -4,7 +4,7 @@
 
 ### Hi, I'm Cameron
 
-- Working on C, C++ & Assembly  
+- Learning C, C++ & Assembly  
 - Prototyping a gate detection monitor  
 - Mechanical keyboard collector  
 - Mythology enthusiast
@@ -14,8 +14,9 @@
 
 ## Building
 
+- **BENCHIE** API test coverage
 - **Lilvikbot** Chatbot that learns from live chat using Markov chains
-- **Emergency Resource Finder** offline-first service locator for critical resources when connectivity fails  
+- **Emergency Resource Finder** offline-first service locator for critical resources when connectivity fails  [Paused]
 
 
 ---
