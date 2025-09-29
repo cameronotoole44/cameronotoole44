@@ -1,9 +1,6 @@
-![banner](./CAMERON%20O'TOOLE%20v2.png)
+
 
 ---
-
-### Hi, I'm Cameron
-
 - Learning C, C++ & Java  
 - Prototyping a gate detection monitor  
 - Mechanical keyboard collector  
