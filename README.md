@@ -4,44 +4,43 @@
 
 ### Hi, I'm Cameron
 
-- Learning C, C++ & Assembly  
+- Learning C, C++ & Java  
 - Prototyping a gate detection monitor  
 - Mechanical keyboard collector  
-- Mythology enthusiast
-- Ireland 
+- Mythology enthusiast  
 
 ---
 
 ## Building
 
-- **BENCHIE** API test coverage
-- **Lilvikbot** Chatbot that learns from live chat using Markov chains
-- **Emergency Resource Finder** offline-first service locator for critical resources when connectivity fails  [Paused]
-
+- **Honeypot** → Security honeypot running on Raspberry Pi 4  
+- **Lilvikbot** → Chatbot that learns from live chat using Markov chains  
+- **IQOS** → Experimental data tooling for analytics and processing  
 
 ---
 
 ## Stack
 
-[![Core](https://skillicons.dev/icons?i=js,ts,py,c,git,postgresql&perline=6)](https://skillicons.dev)
-</details>
+[![Core](https://skillicons.dev/icons?i=py,ts,c,git,postgresql&perline=6)](https://skillicons.dev)
 
 <details>
 <summary>Tools & Ecosystem</summary>
 
-[![Tools](https://skillicons.dev/icons?i=express,flask,react,vite,npm,docker&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=apple,docker,express,flask,linux,npm,react,vite,windows&perline=6)](https://skillicons.dev)
+
 </details>
 
 <details>
-<summary>Leveling With</summary>
+<summary>More Dev Tools</summary>
 
-[![Exploring](https://skillicons.dev/icons?i=unreal,raspberrypi,blender,neovim,linux&perline=6)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=blender,neovim,obsidian,postman,raspberrypi,unreal,vscode&perline=6)](https://skillicons.dev)
+
 </details>
 
 <details>
-<summary>Dev Tools & Platforms</summary>
+<summary>Currently Learning</summary>
 
-[![IDEs](https://skillicons.dev/icons?i=postman,vscode,obsidian,windows,apple&perline=6)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,java&perline=6)](https://skillicons.dev)
+
 </details>
 
----
