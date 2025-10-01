@@ -1,6 +1,4 @@
 
-
----
 - Learning C, C++ & Java  
 - Prototyping a gate detection monitor  
 - Mechanical keyboard collector  
@@ -18,12 +16,12 @@
 
 ## Stack
 
-[![Core](https://skillicons.dev/icons?i=py,ts,c,git,postgresql&perline=6)](https://skillicons.dev)
+[![Core](https://skillicons.dev/icons?i=py,ts,c,git,linux,postgresql&perline=6)](https://skillicons.dev)
 
 <details>
 <summary>Tools & Ecosystem</summary>
 
-[![Tools](https://skillicons.dev/icons?i=apple,docker,express,flask,linux,npm,react,vite,windows&perline=6)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=apple,docker,express,flask,npm,react,vite,windows&perline=6)](https://skillicons.dev)
 
 </details>
 
