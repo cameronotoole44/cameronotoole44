@@ -9,7 +9,6 @@
 ## Building
 
 - **Lilvikbot** → Chatbot that learns from live chat using Markov chains
-- **Honeypot** → Security honeypot running on Raspberry Pi 4
 - **DB-Dojo** → Database (SQL) sandbox for practicing real-world database debugging and migrations
 
 ---
