@@ -8,8 +8,7 @@
 
 ## Building
 
-- **Lilvikbot** → Chatbot that learns from live chat using Markov chains
-- **DB-Dojo** → Database (SQL) sandbox for practicing real-world database debugging and migrations
+- light pollution monitor
 
 ---
 
@@ -18,7 +17,7 @@
 [![Core](https://skillicons.dev/icons?i=py,ts,c,git,linux,postgresql&perline=6)](https://skillicons.dev)
 
 <details>
-<summary>Tools & Ecosystem</summary>
+<summary>Tools</summary>
 
 [![Tools](https://skillicons.dev/icons?i=apple,docker,express,flask,npm,react,vite,windows&perline=6)](https://skillicons.dev)
 
