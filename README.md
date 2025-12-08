@@ -1,6 +1,5 @@
 
 - Learning C, C++ & Java  
-- Prototyping a gate detection monitor  
 - Mechanical keyboard collector  
 - Mythology enthusiast  
 
@@ -8,7 +7,7 @@
 
 ## Building
 
-- light pollution monitor
+- gate detection monitor
 
 ---
 
