@@ -1,25 +1,16 @@
+## currently executing
 
-## Building
-
-- gate detection monitor
+- `char* degree = (char*)malloc(sizeof(BS_CS));` // expected 2028
 
 ---
 
-## Stack
+## stack
 
 [![Core](https://skillicons.dev/icons?i=py,ts,c,linux&perline=6)](https://skillicons.dev)
 
 <details>
-<summary>Tools</summary>
-
-[![Tools](https://skillicons.dev/icons?i=apple,docker,express,flask,git,npm,postgresql,react,windows&perline=6)](https://skillicons.dev)
-
-</details>
-
-<details>
-<summary>Currently Learning</summary>
+<summary>learning</summary>
 
 [![Learning](https://skillicons.dev/icons?i=cpp,java&perline=6)](https://skillicons.dev)
 
 </details>
-
