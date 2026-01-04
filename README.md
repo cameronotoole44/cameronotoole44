@@ -1,8 +1,7 @@
 ## currently executing
 
-- `char* degree = (char*)malloc(sizeof(BS_CS));` // expected 2028
+- `char* degree = (char*)malloc(sizeof(BS_CS));`
 
----
 
 ## stack
 
