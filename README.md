@@ -1,4 +1,4 @@
-## currently executing
+## executing
 
 - `char* degree = (char*)malloc(sizeof(BS_CS));`
 
@@ -8,6 +8,6 @@
 [![Core](https://skillicons.dev/icons?i=py,ts,c,linux&perline=6)](https://skillicons.dev)
 
 
-<summary>learning</summary>
+### learning
 
 [![Learning](https://skillicons.dev/icons?i=cpp,java&perline=6)](https://skillicons.dev)
