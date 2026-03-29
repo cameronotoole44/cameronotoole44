@@ -1,7 +1,3 @@
-## executing
-
-- `char* degree = (char*)malloc(sizeof(BS_CS));`
-
 
 ## stack
 
